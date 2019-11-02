@@ -1,0 +1,9 @@
+      1, Enter mass 
+      2, Take input from keyboard
+      3, Enter choice
+             kilogram to pounds
+             pounds to kilogram
+       4, Take choice 
+       5, Result
+
+
